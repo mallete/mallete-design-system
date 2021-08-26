@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mallete/mallete-design-system#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-nunjucks-render": "^2.2.3"
   }
 }
