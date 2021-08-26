@@ -1,0 +1,27 @@
+{
+  "name": "mallete-design-system",
+  "version": "0.0.1",
+  "description": "mallete project to manage the design system modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallete/mallete-design-system.git"
+  },
+  "keywords": [
+    "design-system",
+    "design",
+    "ds"
+  ],
+  "author": "@alfredopizana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mallete/mallete-design-system/issues"
+  },
+  "homepage": "https://github.com/mallete/mallete-design-system#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
